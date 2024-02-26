@@ -1,0 +1,17 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/src/Cert/*
+.DS_Store
+*/.DS_Store
+.phpstorm.meta.php
+_ide_helper.php
+.env
+composer.lock
+test.php
+/.cert/
+/icc.txt
+/.log/
+/traffic_test.php
+/iccres/
